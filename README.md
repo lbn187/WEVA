@@ -16,4 +16,4 @@ Dependencies: `numpy`, `scipy`, `matplotlib`, `open_spiel`
 
 ## Run experiments
 
-python run_experiments.py --benchmark [BENCHMARK] --variant [CFR_ALGO]
+python run_experiments.py
